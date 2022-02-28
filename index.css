@@ -293,27 +293,22 @@ h3 {
 
 #img1{
     background-image: url('https://i.ibb.co/stBfMNT/mean.jpg');
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size:cover;
 }
 
 #img2{
     background-image: url('https://i.ibb.co/gdtjFfT/median.jpg');
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size:cover;
 }
 
 #img3{
     background-image: url('https://i.ibb.co/vB5n8Bx/mode.jpg');
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size:cover;
+    
 }
 
 .img{
     padding: 10px 0 10px 0;
     height: 160px;
     width: 300px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
 }
