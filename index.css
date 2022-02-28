@@ -211,10 +211,6 @@ h2 {
     height: 160px;
     width: 300px;
     margin: 10px 0 10px 0;
-    background-color: chartreuse;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
 }
 
 h3 {
@@ -295,13 +291,8 @@ h3 {
     transform: scale(1.1); 
 }
 
-#box--img__1{
-    background-image: url(/assets/mean.jpg);
+img{
+    padding: 10px 0 10px 0;
+    height: 180px;
+    width: 300px;
 }
-#box--img__2{
-    background-image: url(/assets/median.jpg);
-}
-#box--img__3{
-    background-image: url(/assets/mode.jpg);
-} 
-
